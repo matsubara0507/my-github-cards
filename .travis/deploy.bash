@@ -10,8 +10,10 @@ ssh-add .travis/id_rsa
 # commit the assets in docs/ if changed, and push to GitHub using SSH
 git config user.name "${GIT_NAME}"
 git config user.email "${GIT_EMAIL}"
+git remote set-url origin git@github.com:${TRAVIS_REPO_SLUG}.git
+git fetch origin master
+
 git status
 git add docs
 git diff --staged --quiet || git commit -m "[skip ci] Update docs by selfcat"
-git remote set-url origin git@github.com:${TRAVIS_REPO_SLUG}.git
 git push origin master
