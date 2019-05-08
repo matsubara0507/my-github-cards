@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 set -eux
 
 # setup ssh-agent and provide the GitHub deploy key
