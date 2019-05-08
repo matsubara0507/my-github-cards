@@ -1,0 +1,25 @@
+outputs: docs/static/all.json
+owner: matsubara0507
+repos:
+- mix.hs
+- selfcat
+- MinRuby.rb
+- github-card
+- lifegame
+- git-plantation
+- AnaQRam
+- timeout-sesstype.hs
+- scrapbook
+- dockwright
+- stack-tpls
+- mdium
+- yaml-to-dhall
+- dhall-ex
+- drone-git-with-ssh
+- drone-slack-notify-log
+- chatwork
+- rakuten
+- servant-kotlin
+- thank-you-stars
+- drone-haskell
+- fun-of-extensible
