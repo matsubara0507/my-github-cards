@@ -11,9 +11,8 @@ ssh-add .travis/id_rsa
 git config user.name "${GIT_NAME}"
 git config user.email "${GIT_EMAIL}"
 git remote set-url origin git@github.com:${TRAVIS_REPO_SLUG}.git
-git fetch origin master
 
 git status
 git add docs
 git diff --staged --quiet || git commit -m "[skip ci] Update docs by selfcat"
-git push origin master
+git push -u origin master
