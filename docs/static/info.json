@@ -17,7 +17,17 @@
             "owner": "matsubara0507",
             "name": "selfcat",
             "language": "Haskell",
-            "description": "collect self GitHub's status",
+            "description": ":octocat: Collect self GitHub's status ",
+            "avatar": "https://avatars1.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 0,
+            "url": "https://github.com/matsubara0507/my-github-cards",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "my-github-cards",
+            "language": "Elm",
+            "description": "My GitHub Status Card by Elm and selfcat",
             "avatar": "https://avatars1.githubusercontent.com/u/10684493?v=4"
         },
         {

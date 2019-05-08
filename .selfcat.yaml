@@ -3,6 +3,7 @@ owner: matsubara0507
 repos:
 - mix.hs
 - selfcat
+- my-github-cards
 - MinRuby.rb
 - github-card
 - lifegame
