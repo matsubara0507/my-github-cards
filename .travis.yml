@@ -1,0 +1,19 @@
+language: generic
+services:
+  - docker
+
+before_install:
+- docker pull matsubara0507/selfcat
+
+jobs:
+  include:
+    - stage: exec selfcat
+      if: branch = master
+      script: docker run --rm -v `pwd`:/app matsubara0507/selfcat bin/bash -c 'cd app && selfcat --output=docs/static/info.json --compact .selfcat.yaml'
+
+deploy:
+  - provider: script
+    skip_cleanup: true
+    script: ./.travis-deploy.sh
+    on:
+      branch: master
