@@ -95,7 +95,7 @@ initModel url model =
             ( { model | text = text, embed = True }, Cmd.none )
 
         ( _, Just text ) ->
-            ( { model | text = text, url = baseUrl }, Cmd.none )
+            ( { model | text = text, url = baseUrl }, getCardElement )
 
 
 update : Msg -> Model -> ( Model, Cmd Msg )
@@ -158,7 +158,7 @@ findInfoByName infos name =
 
 
 viewBody : String -> Model -> Maybe GitHubInfo -> Html Msg
-viewBody title model info =
+viewBody title model singleInfo =
     Html.div [ Attr.class "container" ]
         [ Html.h2 [ Attr.class "pb-3" ] [ Html.text title ]
         , Html.div [ Attr.class "clearfix" ]
@@ -173,12 +173,21 @@ viewBody title model info =
                 ]
                 []
             ]
-        , Maybe.map List.singleton info
+        , Maybe.map List.singleton singleInfo
             |> Maybe.withDefault model.info
             |> List.map buildCard
             |> List.map List.singleton
             |> List.map (Html.div [ Attr.class "p-5 one-half" ])
             |> Html.div []
+        , case singleInfo of
+            Nothing ->
+                Html.div [] []
+
+            Just info ->
+                Html.div []
+                    [ Html.h3 [] [ Html.text "Embed:" ]
+                    , Html.text (iframe model)
+                    ]
         ]
 
 
