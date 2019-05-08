@@ -6111,13 +6111,6 @@ var author$project$Main$update = F2(
 				return A2(author$project$Main$initModel, url, model);
 		}
 	});
-var elm$html$Html$div = _VirtualDom_node('div');
-var author$project$Main$buildCardBy = function (model) {
-	return A2(elm$html$Html$div, _List_Nil, _List_Nil);
-};
-var author$project$Main$InputText = function (a) {
-	return {$: 'InputText', a: a};
-};
 var elm$core$Dict$fromList = function (assocs) {
 	return A3(
 		elm$core$List$foldl,
@@ -7092,6 +7085,7 @@ var elm$core$List$singleton = function (value) {
 };
 var elm$core$String$append = _String_append;
 var elm$html$Html$a = _VirtualDom_node('a');
+var elm$html$Html$div = _VirtualDom_node('div');
 var elm$html$Html$h3 = _VirtualDom_node('h3');
 var elm$html$Html$img = _VirtualDom_node('img');
 var elm$html$Html$span = _VirtualDom_node('span');
@@ -7455,6 +7449,68 @@ var author$project$Main$buildCard = function (info) {
 		return author$project$Main$buildRepoCard(repo);
 	}
 };
+var author$project$Main$buildCardBy = F2(
+	function (model, minfo) {
+		if (minfo.$ === 'Nothing') {
+			return A2(
+				elm$html$Html$div,
+				_List_fromArray(
+					[
+						elm$html$Html$Attributes$class('flash flash-error')
+					]),
+				_List_fromArray(
+					[
+						elm$html$Html$text('card is not found: ' + model.text)
+					]));
+		} else {
+			var info = minfo.a;
+			return author$project$Main$buildCard(info);
+		}
+	});
+var elm$core$List$filter = F2(
+	function (isGood, list) {
+		return A3(
+			elm$core$List$foldr,
+			F2(
+				function (x, xs) {
+					return isGood(x) ? A2(elm$core$List$cons, x, xs) : xs;
+				}),
+			_List_Nil,
+			list);
+	});
+var elm$core$List$head = function (list) {
+	if (list.b) {
+		var x = list.a;
+		var xs = list.b;
+		return elm$core$Maybe$Just(x);
+	} else {
+		return elm$core$Maybe$Nothing;
+	}
+};
+var author$project$Main$findInfoByName = F2(
+	function (infos, name) {
+		var getName = function (info) {
+			if (info.$ === 'GitHubUser') {
+				var user = info.a;
+				return user.login;
+			} else {
+				var repo = info.a;
+				return repo.owner + ('/' + repo.name);
+			}
+		};
+		return elm$core$List$head(
+			A2(
+				elm$core$List$filter,
+				function (info) {
+					return _Utils_eq(
+						getName(info),
+						name);
+				},
+				infos));
+	});
+var author$project$Main$InputText = function (a) {
+	return {$: 'InputText', a: a};
+};
 var elm$html$Html$h2 = _VirtualDom_node('h2');
 var elm$html$Html$input = _VirtualDom_node('input');
 var elm$html$Html$Events$alwaysStop = function (x) {
@@ -7489,8 +7545,8 @@ var elm$html$Html$Events$onInput = function (tagger) {
 			elm$html$Html$Events$alwaysStop,
 			A2(elm$json$Json$Decode$map, tagger, elm$html$Html$Events$targetValue)));
 };
-var author$project$Main$viewBody = F2(
-	function (title, model) {
+var author$project$Main$viewBody = F3(
+	function (title, model, info) {
 		return A2(
 			elm$html$Html$div,
 			_List_fromArray(
@@ -7550,15 +7606,22 @@ var author$project$Main$viewBody = F2(
 						A2(
 							elm$core$List$map,
 							elm$core$List$singleton,
-							A2(elm$core$List$map, author$project$Main$buildCard, model.info))))
+							A2(
+								elm$core$List$map,
+								author$project$Main$buildCard,
+								A2(
+									elm$core$Maybe$withDefault,
+									model.info,
+									A2(elm$core$Maybe$map, elm$core$List$singleton, info))))))
 				]));
 	});
 var author$project$Main$view = function (model) {
 	var title = 'GitHub Card Builder';
+	var info = A2(author$project$Main$findInfoByName, model.info, model.text);
 	return {
 		body: model.embed ? _List_fromArray(
 			[
-				author$project$Main$buildCardBy(model)
+				A2(author$project$Main$buildCardBy, model, info)
 			]) : _List_fromArray(
 			[
 				A2(
@@ -7569,7 +7632,7 @@ var author$project$Main$view = function (model) {
 					]),
 				_List_fromArray(
 					[
-						A2(author$project$Main$viewBody, title, model)
+						A3(author$project$Main$viewBody, title, model, info)
 					]))
 			]),
 		title: title

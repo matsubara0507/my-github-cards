@@ -129,19 +129,36 @@ view model =
     let
         title =
             "GitHub Card Builder"
+
+        info =
+            findInfoByName model.info model.text
     in
     { title = title
     , body =
         if model.embed then
-            [ buildCardBy model ]
+            [ buildCardBy model info ]
 
         else
-            [ Html.div [ Attr.class "p-3" ] [ viewBody title model ] ]
+            [ Html.div [ Attr.class "p-3" ] [ viewBody title model info ] ]
     }
 
 
-viewBody : String -> Model -> Html Msg
-viewBody title model =
+findInfoByName : List GitHubInfo -> String -> Maybe GitHubInfo
+findInfoByName infos name =
+    let
+        getName info =
+            case info of
+                GitHubUser user ->
+                    user.login
+
+                GitHubRepo repo ->
+                    repo.owner ++ "/" ++ repo.name
+    in
+    List.head <| List.filter (\info -> getName info == name) infos
+
+
+viewBody : String -> Model -> Maybe GitHubInfo -> Html Msg
+viewBody title model info =
     Html.div [ Attr.class "container" ]
         [ Html.h2 [ Attr.class "pb-3" ] [ Html.text title ]
         , Html.div [ Attr.class "clearfix" ]
@@ -156,7 +173,8 @@ viewBody title model =
                 ]
                 []
             ]
-        , model.info
+        , Maybe.map List.singleton info
+            |> Maybe.withDefault model.info
             |> List.map buildCard
             |> List.map List.singleton
             |> List.map (Html.div [ Attr.class "p-5 one-half" ])
@@ -187,9 +205,14 @@ buildCard info =
             buildRepoCard repo
 
 
-buildCardBy : Model -> Html msg
-buildCardBy model =
-    Html.div [] []
+buildCardBy : Model -> Maybe GitHubInfo -> Html msg
+buildCardBy model minfo =
+    case minfo of
+        Nothing ->
+            Html.div [ Attr.class "flash flash-error" ] [ Html.text ("card is not found: " ++ model.text) ]
+
+        Just info ->
+            buildCard info
 
 
 buildUserCard : GitHub.User -> Html msg
