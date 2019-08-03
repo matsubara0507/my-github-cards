@@ -1,6 +1,36 @@
 {
     "repos": [
         {
+            "star_cnt": 0,
+            "url": "https://github.com/matsubara0507/elmap.hs",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "elmap.hs",
+            "language": "Haskell",
+            "description": "Mapping to Elm definitions from Haskell definitions.",
+            "avatar": "https://avatars1.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 1,
+            "url": "https://github.com/matsubara0507/fallible",
+            "fork_cnt": 1,
+            "owner": "matsubara0507",
+            "name": "fallible",
+            "language": "Haskell",
+            "description": "interface for fallible data type like Maybe and Either.",
+            "avatar": "https://avatars1.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 2,
+            "url": "https://github.com/matsubara0507/mixlogue",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "mixlogue",
+            "language": "Haskell",
+            "description": "mix monologue : collect any public times channel in slack",
+            "avatar": "https://avatars1.githubusercontent.com/u/10684493?v=4"
+        },
+        {
             "star_cnt": 4,
             "url": "https://github.com/matsubara0507/mix.hs",
             "fork_cnt": 0,
