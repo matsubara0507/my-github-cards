@@ -1,6 +1,9 @@
 outputs: docs/static/all.json
 owner: matsubara0507
 repos:
+- elmap.hs
+- fallible
+- mixlogue
 - mix.hs
 - selfcat
 - my-github-cards
