@@ -1,6 +1,8 @@
 outputs: docs/static/all.json
 owner: matsubara0507
 repos:
+- anaqram-web-samples
+- anaqram-web
 - elmap.hs
 - fallible
 - mixlogue
