@@ -2,6 +2,26 @@
     "repos": [
         {
             "star_cnt": 0,
+            "url": "https://github.com/matsubara0507/anaqram-web-samples",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "anaqram-web-samples",
+            "language": "Elm",
+            "description": "Sample Codes for TechBookFest 7 :  AnaQRam (web version)",
+            "avatar": "https://avatars1.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 0,
+            "url": "https://github.com/matsubara0507/anaqram-web",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "anaqram-web",
+            "language": "Elm",
+            "description": "Web Application : AnaQRam (web version)",
+            "avatar": "https://avatars1.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 0,
             "url": "https://github.com/matsubara0507/elmap.hs",
             "fork_cnt": 0,
             "owner": "matsubara0507",
