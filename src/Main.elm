@@ -226,7 +226,7 @@ buildCardBy model minfo =
 
 buildUserCard : GitHub.User -> Html msg
 buildUserCard user =
-    Html.div [ Attr.id "github-card", Attr.class "Box box-shadow" ]
+    Html.div [ Attr.id "github-card", Attr.class "Box box-shadow", Attr.style "width" "320px" ]
         [ Html.div [ Attr.class "Box-row" ]
             [ Html.div []
                 [ Html.img [ Attr.class "avatar float-left pr-2", Attr.src <| user.avatar ++ "&s=48" ] []
@@ -270,7 +270,7 @@ buildRepoCard repo =
                 |> Maybe.map List.singleton
                 |> Maybe.withDefault []
     in
-    Html.div ([ Attr.id "github-card", Attr.class "Box box-shadow" ] ++ border)
+    Html.div ([ Attr.id "github-card", Attr.class "Box box-shadow", Attr.style "width" "320px" ] ++ border)
         [ Html.div [ Attr.class "Box-row" ]
             [ Html.div []
                 [ Html.img [ Attr.class "avatar float-left pr-2", Attr.src <| repo.avatar ++ "&s=48" ] []

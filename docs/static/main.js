@@ -7157,7 +7157,8 @@ var author$project$Main$buildRepoCard = function (repo) {
 			_List_fromArray(
 				[
 					elm$html$Html$Attributes$id('github-card'),
-					elm$html$Html$Attributes$class('Box box-shadow')
+					elm$html$Html$Attributes$class('Box box-shadow'),
+					A2(elm$html$Html$Attributes$style, 'width', '320px')
 				]),
 			border),
 		_List_fromArray(
@@ -7297,7 +7298,8 @@ var author$project$Main$buildUserCard = function (user) {
 		_List_fromArray(
 			[
 				elm$html$Html$Attributes$id('github-card'),
-				elm$html$Html$Attributes$class('Box box-shadow')
+				elm$html$Html$Attributes$class('Box box-shadow'),
+				A2(elm$html$Html$Attributes$style, 'width', '320px')
 			]),
 		_List_fromArray(
 			[
