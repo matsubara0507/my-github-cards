@@ -226,12 +226,14 @@ buildCardBy model minfo =
 
 buildUserCard : GitHub.User -> Html msg
 buildUserCard user =
-    Html.div [ Attr.id "github-card", Attr.class "Box box-shadow", Attr.style "width" "320px" ]
+    Html.div
+        [ Attr.id "github-card", Attr.class "Box box-shadow", Attr.style "width" "320px", Attr.style "font-size" "1em" ]
         [ Html.div [ Attr.class "Box-row" ]
             [ Html.div []
                 [ Html.img [ Attr.class "avatar float-left pr-2", Attr.src <| user.avatar ++ "&s=48" ] []
                 , Html.div []
-                    [ Html.h3 [] [ Html.text <| Maybe.withDefault user.login user.name ]
+                    [ Html.h3 [ Attr.style "font-size" "1.5em" ]
+                        [ Html.text <| Maybe.withDefault user.login user.name ]
                     , Html.span [] [ Html.text ("@" ++ user.login) ]
                     ]
                 ]
@@ -270,12 +272,13 @@ buildRepoCard repo =
                 |> Maybe.map List.singleton
                 |> Maybe.withDefault []
     in
-    Html.div ([ Attr.id "github-card", Attr.class "Box box-shadow", Attr.style "width" "320px" ] ++ border)
+    Html.div
+        ([ Attr.id "github-card", Attr.class "Box box-shadow", Attr.style "width" "320px", Attr.style "font-size" "1em" ] ++ border)
         [ Html.div [ Attr.class "Box-row" ]
             [ Html.div []
                 [ Html.img [ Attr.class "avatar float-left pr-2", Attr.src <| repo.avatar ++ "&s=48" ] []
                 , Html.div []
-                    [ Html.h3 [] [ Html.text repo.name ]
+                    [ Html.h3 [ Attr.style "font-size" "1.5em" ] [ Html.text repo.name ]
                     , Html.span [] [ Html.text ("Create by @" ++ repo.owner) ]
                     , Html.div [] [ Html.text repo.description ]
                     ]

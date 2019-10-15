@@ -7158,7 +7158,8 @@ var author$project$Main$buildRepoCard = function (repo) {
 				[
 					elm$html$Html$Attributes$id('github-card'),
 					elm$html$Html$Attributes$class('Box box-shadow'),
-					A2(elm$html$Html$Attributes$style, 'width', '320px')
+					A2(elm$html$Html$Attributes$style, 'width', '320px'),
+					A2(elm$html$Html$Attributes$style, 'font-size', '1em')
 				]),
 			border),
 		_List_fromArray(
@@ -7191,7 +7192,10 @@ var author$project$Main$buildRepoCard = function (repo) {
 									[
 										A2(
 										elm$html$Html$h3,
-										_List_Nil,
+										_List_fromArray(
+											[
+												A2(elm$html$Html$Attributes$style, 'font-size', '1.5em')
+											]),
 										_List_fromArray(
 											[
 												elm$html$Html$text(repo.am)
@@ -7299,7 +7303,8 @@ var author$project$Main$buildUserCard = function (user) {
 			[
 				elm$html$Html$Attributes$id('github-card'),
 				elm$html$Html$Attributes$class('Box box-shadow'),
-				A2(elm$html$Html$Attributes$style, 'width', '320px')
+				A2(elm$html$Html$Attributes$style, 'width', '320px'),
+				A2(elm$html$Html$Attributes$style, 'font-size', '1em')
 			]),
 		_List_fromArray(
 			[
@@ -7331,7 +7336,10 @@ var author$project$Main$buildUserCard = function (user) {
 									[
 										A2(
 										elm$html$Html$h3,
-										_List_Nil,
+										_List_fromArray(
+											[
+												A2(elm$html$Html$Attributes$style, 'font-size', '1.5em')
+											]),
 										_List_fromArray(
 											[
 												elm$html$Html$text(
