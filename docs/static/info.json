@@ -12,16 +12,6 @@
         },
         {
             "star_cnt": 0,
-            "url": "https://github.com/matsubara0507/anaqram-web",
-            "fork_cnt": 0,
-            "owner": "matsubara0507",
-            "name": "anaqram-web",
-            "language": "Elm",
-            "description": "Web Application : AnaQRam (web version)",
-            "avatar": "https://avatars1.githubusercontent.com/u/10684493?v=4"
-        },
-        {
-            "star_cnt": 0,
             "url": "https://github.com/matsubara0507/elmap.hs",
             "fork_cnt": 0,
             "owner": "matsubara0507",
@@ -98,16 +88,6 @@
             "name": "github-card",
             "language": "Elm",
             "description": "Generate GitHub Card (iframe) by Elm",
-            "avatar": "https://avatars1.githubusercontent.com/u/10684493?v=4"
-        },
-        {
-            "star_cnt": 0,
-            "url": "https://github.com/matsubara0507/lifegame",
-            "fork_cnt": 0,
-            "owner": "matsubara0507",
-            "name": "lifegame",
-            "language": "Elm",
-            "description": "Life Game",
             "avatar": "https://avatars1.githubusercontent.com/u/10684493?v=4"
         },
         {
@@ -351,16 +331,6 @@
             "avatar": "https://avatars1.githubusercontent.com/u/10684493?v=4"
         },
         {
-            "star_cnt": 0,
-            "url": "https://github.com/matsubara0507/adventar-line-bot",
-            "fork_cnt": 0,
-            "owner": "matsubara0507",
-            "name": "adventar-line-bot",
-            "language": "Haskell",
-            "description": "LINE Bot to notify update of ADVENTAR with Haskell",
-            "avatar": "https://avatars1.githubusercontent.com/u/10684493?v=4"
-        },
-        {
             "star_cnt": 1,
             "url": "https://github.com/matsubara0507/curry-howard-linebot",
             "fork_cnt": 0,
@@ -488,7 +458,7 @@
         "name": "MATSUBARA Nobutada",
         "followers": 57,
         "login": "matsubara0507",
-        "repo_cnt": 181,
+        "repo_cnt": 182,
         "avatar": "https://avatars1.githubusercontent.com/u/10684493?v=4"
     }
 }
