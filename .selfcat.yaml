@@ -1,6 +1,13 @@
 outputs: docs/static/all.json
 owner: matsubara0507
 repos:
+- repomoving
+- deps-sensor
+- setup-stack
+- botground
+- setup-egison
+- extensible-ext
+- slackell
 - anaqram-web-samples
 - anaqram-web
 - elmap.hs
