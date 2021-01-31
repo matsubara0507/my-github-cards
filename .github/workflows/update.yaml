@@ -1,0 +1,36 @@
+name: Update my github cards
+on:
+  schedule:
+  - cron:  '0 10 * * *'
+  push:
+    branches:
+    - master
+    paths-ignore:
+    - 'docs/**'
+    - 'README.md'
+    - '.gitignore'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2.2.0
+      with:
+        ref: master
+
+    - name: Update selfcat
+      uses: docker://matsubara0507/selfcat:latest
+      env:
+        GH_TOKEN: ${{ github.token }}
+      run:
+        selfcat --output=docs/static/info.json --compact .selfcat.yaml
+
+    - name: Push changes
+      run: |
+        git config --local user.email "bot@example.com"
+        git config --local user.name "Bot"
+        git status
+        git add docs
+        git diff --staged --quiet || git commit -m "[skip ci] Update docs by selfcat"
+        git push origin master
