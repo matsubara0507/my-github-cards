@@ -2,7 +2,6 @@ name: Update my github cards
 on:
   schedule:
   - cron:  '0 10 * * *'
-  pull_request: null
   push:
     branches:
     - master
