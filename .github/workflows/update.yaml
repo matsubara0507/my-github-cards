@@ -24,8 +24,9 @@ jobs:
       uses: docker://matsubara0507/selfcat:latest
       env:
         GH_TOKEN: ${{ github.token }}
-      run:
-        selfcat --output=docs/static/info.json --compact .selfcat.yaml
+      with:
+        entrypoint: selfcat
+        args: --output=docs/static/info.json --compact .selfcat.yaml
 
     - name: Push changes
       run: |
