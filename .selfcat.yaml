@@ -1,6 +1,7 @@
 outputs: docs/static/all.json
 owner: matsubara0507
 repos:
+- hazell
 - rules_elm
 - rules_yq
 - repomoving
