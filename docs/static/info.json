@@ -2,6 +2,16 @@
     "repos": [
         {
             "star_cnt": 0,
+            "url": "https://github.com/matsubara0507/haskell-dockerfiles",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "haskell-dockerfiles",
+            "language": "Dockerfile",
+            "description": "Dockerfiles for Haskell",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 0,
             "url": "https://github.com/matsubara0507/hazell",
             "fork_cnt": 0,
             "owner": "matsubara0507",
