@@ -1,6 +1,7 @@
 outputs: docs/static/all.json
 owner: matsubara0507
 repos:
+- haskell-dockerfiles
 - hazell
 - rules_elm
 - rules_yq
