@@ -21,6 +21,16 @@
             "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
         },
         {
+            "star_cnt": 0,
+            "url": "https://github.com/matsubara0507/rules_elm",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "rules_elm",
+            "language": "Starlark",
+            "description": "",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
             "star_cnt": 2,
             "url": "https://github.com/matsubara0507/rules_yq",
             "fork_cnt": 1,
@@ -28,6 +38,16 @@
             "name": "rules_yq",
             "language": "Starlark",
             "description": "",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 0,
+            "url": "https://github.com/matsubara0507/repomoving",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "repomoving",
+            "language": "Haskell",
+            "description": "Moving repositories to other organization",
             "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
         },
         {
@@ -111,6 +131,36 @@
             "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
         },
         {
+            "star_cnt": 2,
+            "url": "https://github.com/matsubara0507/elmap.hs",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "elmap.hs",
+            "language": "Haskell",
+            "description": "Mapping to Elm definitions from Haskell definitions.",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 1,
+            "url": "https://github.com/matsubara0507/fallible",
+            "fork_cnt": 1,
+            "owner": "matsubara0507",
+            "name": "fallible",
+            "language": "Haskell",
+            "description": "interface for fallible data type like Maybe and Either.",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 2,
+            "url": "https://github.com/matsubara0507/mixlogue",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "mixlogue",
+            "language": "Haskell",
+            "description": "mix monologue : collect any public times channel in slack",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
             "star_cnt": 4,
             "url": "https://github.com/matsubara0507/mix.hs",
             "fork_cnt": 0,
@@ -138,6 +188,16 @@
             "name": "my-github-cards",
             "language": "Elm",
             "description": "My GitHub Status Card by Elm and selfcat",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 0,
+            "url": "https://github.com/matsubara0507/MinRuby.rb",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "MinRuby.rb",
+            "language": "Ruby",
+            "description": "MinRuby by Ruby (ref: Ruby で学ぶ Ruby)",
             "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
         },
         {
@@ -181,6 +241,16 @@
             "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
         },
         {
+            "star_cnt": 2,
+            "url": "https://github.com/matsubara0507/anaqram-server",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "anaqram-server",
+            "language": "Elm",
+            "description": "Score Ranking Server for AnaQRam with Haskell Servant",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
             "star_cnt": 1,
             "url": "https://github.com/matsubara0507/timeout-sesstype.hs",
             "fork_cnt": 0,
@@ -211,6 +281,16 @@
             "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
         },
         {
+            "star_cnt": 2,
+            "url": "https://github.com/matsubara0507/stack-tpls",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "stack-tpls",
+            "language": "Haskell",
+            "description": "collect stack-template that project templates for stack new",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
             "star_cnt": 3,
             "url": "https://github.com/matsubara0507/mdium",
             "fork_cnt": 1,
@@ -218,6 +298,16 @@
             "name": "mdium",
             "language": "Haskell",
             "description": "Send post written by Markdown to Medium",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 9,
+            "url": "https://github.com/matsubara0507/yaml-to-dhall",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "yaml-to-dhall",
+            "language": "Haskell",
+            "description": "Roughly implement CLI tool to convert YAML to Dhall",
             "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
         },
         {
@@ -232,12 +322,42 @@
         },
         {
             "star_cnt": 0,
+            "url": "https://github.com/matsubara0507/drone-git-with-ssh",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "drone-git-with-ssh",
+            "language": "Go",
+            "description": "Drone plugin: git with ssh",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 0,
             "url": "https://github.com/matsubara0507/drone-slack-notify-log",
             "fork_cnt": 0,
             "owner": "matsubara0507",
             "name": "drone-slack-notify-log",
             "language": "Go",
             "description": "Drone plugin for sending Slack notifications",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 3,
+            "url": "https://github.com/matsubara0507/chatwork",
+            "fork_cnt": 3,
+            "owner": "matsubara0507",
+            "name": "chatwork",
+            "language": "Haskell",
+            "description": "The ChatWork API for Haskell",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 6,
+            "url": "https://github.com/matsubara0507/rakuten",
+            "fork_cnt": 2,
+            "owner": "matsubara0507",
+            "name": "rakuten",
+            "language": "Haskell",
+            "description": "The Rakuten API for Haskell",
             "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
         },
         {
@@ -268,6 +388,16 @@
             "name": "drone-haskell",
             "language": "Haskell",
             "description": "Haskell client for the Drone API",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 0,
+            "url": "https://github.com/matsubara0507/fun-of-extensible",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "fun-of-extensible",
+            "language": "Haskell",
+            "description": "Sample codes of \"The Fun of Extensible\"",
             "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
         },
         {
@@ -361,6 +491,16 @@
             "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
         },
         {
+            "star_cnt": 1,
+            "url": "https://github.com/matsubara0507/languages-colors-for-fasthub",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "languages-colors-for-fasthub",
+            "language": "Haskell",
+            "description": "For https://github.com/k0shk0sh/FastHub/pull/862",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
             "star_cnt": 9,
             "url": "https://github.com/matsubara0507/gasdump",
             "fork_cnt": 0,
@@ -381,6 +521,16 @@
             "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
         },
         {
+            "star_cnt": 4,
+            "url": "https://github.com/matsubara0507/dlisp",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "dlisp",
+            "language": "D",
+            "description": "Pure Lisp on D Language",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
             "star_cnt": 0,
             "url": "https://github.com/matsubara0507/hunter",
             "fork_cnt": 0,
@@ -388,6 +538,26 @@
             "name": "hunter",
             "language": "Ruby",
             "description": "オライリーアニマルを捕まえるぞ",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 1,
+            "url": "https://github.com/matsubara0507/iio",
+            "fork_cnt": 1,
+            "owner": "matsubara0507",
+            "name": "iio",
+            "language": "Jupyter Notebook",
+            "description": "Io kernel for Jupyter/IPython Notebook ",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 5,
+            "url": "https://github.com/matsubara0507/iprolog",
+            "fork_cnt": 1,
+            "owner": "matsubara0507",
+            "name": "iprolog",
+            "language": "Python",
+            "description": "Prolog kernel for Jupyter/IPython Notebook",
             "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
         },
         {
@@ -408,6 +578,16 @@
             "name": "docker-merge",
             "language": "Haskell",
             "description": "make CLI that merge two Dockerfile using Haskell",
+            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        },
+        {
+            "star_cnt": 0,
+            "url": "https://github.com/matsubara0507/whitespace_has",
+            "fork_cnt": 0,
+            "owner": "matsubara0507",
+            "name": "whitespace_has",
+            "language": "",
+            "description": "Implement compiler of whitespace using Haskell.",
             "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
         }
     ],
