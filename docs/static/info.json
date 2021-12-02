@@ -21,7 +21,7 @@
             "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
         },
         {
-            "star_cnt": 1,
+            "star_cnt": 2,
             "url": "https://github.com/matsubara0507/rules_elm",
             "fork_cnt": 0,
             "owner": "matsubara0507",
@@ -594,11 +594,11 @@
     "owner": {
         "bio": "i like Haskell",
         "url": "https://github.com/matsubara0507",
-        "following": 139,
+        "following": 140,
         "name": "MATSUBARA Nobutada",
         "followers": 78,
         "login": "matsubara0507",
-        "repo_cnt": 244,
+        "repo_cnt": 245,
         "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
     }
 }
