@@ -403,7 +403,7 @@
         {
             "star_cnt": 40,
             "url": "https://github.com/matsubara0507/marp-themes",
-            "fork_cnt": 12,
+            "fork_cnt": 13,
             "owner": "matsubara0507",
             "name": "marp-themes",
             "language": "CSS",
@@ -598,7 +598,7 @@
         "name": "MATSUBARA Nobutada",
         "followers": 78,
         "login": "matsubara0507",
-        "repo_cnt": 245,
+        "repo_cnt": 246,
         "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
     }
 }
