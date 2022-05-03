@@ -579,16 +579,6 @@
             "language": "Haskell",
             "description": "make CLI that merge two Dockerfile using Haskell",
             "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
-        },
-        {
-            "star_cnt": 0,
-            "url": "https://github.com/matsubara0507/whitespace_has",
-            "fork_cnt": 0,
-            "owner": "matsubara0507",
-            "name": "whitespace_has",
-            "language": "",
-            "description": "Implement compiler of whitespace using Haskell.",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
         }
     ],
     "owner": {
