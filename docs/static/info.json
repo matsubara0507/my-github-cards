@@ -23,7 +23,7 @@
         {
             "star_cnt": 4,
             "url": "https://github.com/matsubara0507/rules_elm",
-            "fork_cnt": 0,
+            "fork_cnt": 1,
             "owner": "matsubara0507",
             "name": "rules_elm",
             "language": "Starlark",
