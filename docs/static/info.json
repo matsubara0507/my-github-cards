@@ -8,7 +8,7 @@
             "name": "haskell-dockerfiles",
             "language": "Dockerfile",
             "description": "Dockerfiles for Haskell",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -18,7 +18,7 @@
             "name": "hazell",
             "language": "Haskell",
             "description": "Hazell is a Bazel build file generator for Bazel projects from hpack.",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 4,
@@ -28,7 +28,7 @@
             "name": "rules_elm",
             "language": "Starlark",
             "description": "Bazel rules for Elm",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 2,
@@ -38,7 +38,7 @@
             "name": "rules_yq",
             "language": "Starlark",
             "description": "",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -48,7 +48,7 @@
             "name": "repomoving",
             "language": "Haskell",
             "description": "Moving repositories to other organization",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -58,7 +58,7 @@
             "name": "deps-sensor",
             "language": "Starlark",
             "description": "Haskell Dependency Monitor",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 1,
@@ -68,7 +68,7 @@
             "name": "setup-stack",
             "language": "JavaScript",
             "description": "Set up your GitHub Actions workflow with a specific version of Haskell Stack",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 2,
@@ -78,7 +78,7 @@
             "name": "botground",
             "language": "Ruby",
             "description": "Framework for Slack Bot based on Events API by Ruby",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -88,7 +88,7 @@
             "name": "setup-egison",
             "language": "JavaScript",
             "description": "Set up your GitHub Actions workflow with a specific version of Egison",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 1,
@@ -98,7 +98,7 @@
             "name": "extensible-ext",
             "language": "Haskell",
             "description": "extra packages for fumieval/extensible package",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -108,7 +108,7 @@
             "name": "slackell",
             "language": "Haskell",
             "description": "Bindings to the Slack API",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -118,7 +118,7 @@
             "name": "anaqram-web-samples",
             "language": "Elm",
             "description": "Sample Codes for TechBookFest 7 :  AnaQRam (web version)",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -128,7 +128,7 @@
             "name": "anaqram-web",
             "language": "Elm",
             "description": "Web Application : AnaQRam (web version)",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 2,
@@ -138,7 +138,7 @@
             "name": "elmap.hs",
             "language": "Haskell",
             "description": "Mapping to Elm definitions from Haskell definitions.",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 1,
@@ -148,7 +148,7 @@
             "name": "fallible",
             "language": "Haskell",
             "description": "interface for fallible data type like Maybe and Either.",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 2,
@@ -158,7 +158,7 @@
             "name": "mixlogue",
             "language": "Haskell",
             "description": "mix monologue : collect any public times channel in slack",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 4,
@@ -168,7 +168,7 @@
             "name": "mix.hs",
             "language": "Haskell",
             "description": "building rio package configuration using cont monad with extensible  ",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -178,7 +178,7 @@
             "name": "selfcat",
             "language": "Haskell",
             "description": ":octocat: Collect self GitHub's status ",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -188,7 +188,7 @@
             "name": "my-github-cards",
             "language": "Elm",
             "description": "My GitHub Status Card by Elm and selfcat",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -198,7 +198,7 @@
             "name": "MinRuby.rb",
             "language": "Ruby",
             "description": "MinRuby by Ruby (ref: Ruby で学ぶ Ruby)",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -208,7 +208,7 @@
             "name": "github-card",
             "language": "Elm",
             "description": "Generate GitHub Card (iframe) by Elm",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 1,
@@ -218,7 +218,7 @@
             "name": "lifegame",
             "language": "Elm",
             "description": "Life Game",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 18,
@@ -228,7 +228,7 @@
             "name": "git-plantation",
             "language": "Haskell",
             "description": "mixi git challenge の新しい採点システム",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -238,7 +238,7 @@
             "name": "AnaQRam",
             "language": "Kotlin",
             "description": "Anagram using QR code for IGGG",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 2,
@@ -248,7 +248,7 @@
             "name": "anaqram-server",
             "language": "Elm",
             "description": "Score Ranking Server for AnaQRam with Haskell Servant",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 1,
@@ -258,7 +258,7 @@
             "name": "timeout-sesstype.hs",
             "language": "Haskell",
             "description": "An implementation of Multiparty Session Types with Timeout in Haskell",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 2,
@@ -268,7 +268,7 @@
             "name": "scrapbook",
             "language": "Haskell",
             "description": "this is cli that collect posts of site that is wrote in config yaml using feed or scraping.",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -278,7 +278,7 @@
             "name": "dockwright",
             "language": "Haskell",
             "description": "CLI for building Dockerfile",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 2,
@@ -288,7 +288,7 @@
             "name": "stack-tpls",
             "language": "Haskell",
             "description": "collect stack-template that project templates for stack new",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 3,
@@ -298,7 +298,7 @@
             "name": "mdium",
             "language": "Haskell",
             "description": "Send post written by Markdown to Medium",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 9,
@@ -308,7 +308,7 @@
             "name": "yaml-to-dhall",
             "language": "Haskell",
             "description": "Roughly implement CLI tool to convert YAML to Dhall",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 2,
@@ -318,7 +318,7 @@
             "name": "dhall-ex",
             "language": "Haskell",
             "description": "Dhall + exports (+ extend)",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 1,
@@ -328,7 +328,7 @@
             "name": "drone-git-with-ssh",
             "language": "Go",
             "description": "Drone plugin: git with ssh",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -338,7 +338,7 @@
             "name": "drone-slack-notify-log",
             "language": "Go",
             "description": "Drone plugin for sending Slack notifications",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 3,
@@ -348,7 +348,7 @@
             "name": "chatwork",
             "language": "Haskell",
             "description": "The ChatWork API for Haskell",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 6,
@@ -358,7 +358,7 @@
             "name": "rakuten",
             "language": "Haskell",
             "description": "The Rakuten API for Haskell",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 9,
@@ -368,7 +368,7 @@
             "name": "servant-kotlin",
             "language": "Haskell",
             "description": "Automatically derive Kotlin functions to query servant webservices",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 7,
@@ -378,7 +378,7 @@
             "name": "thank-you-stars",
             "language": "Elixir",
             "description": "Give your dependencies stars on GitHub!",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 1,
@@ -388,7 +388,7 @@
             "name": "drone-haskell",
             "language": "Haskell",
             "description": "Haskell client for the Drone API",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -398,7 +398,7 @@
             "name": "fun-of-extensible",
             "language": "Haskell",
             "description": "Sample codes of \"The Fun of Extensible\"",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 113,
@@ -408,7 +408,7 @@
             "name": "marp-themes",
             "language": "CSS",
             "description": "Theme for Marp Next",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 4,
@@ -418,7 +418,7 @@
             "name": "pub-slides",
             "language": "JavaScript",
             "description": "My Published Slides by marp-cli + Netlify",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 1,
@@ -428,7 +428,7 @@
             "name": "whoami",
             "language": "Haskell",
             "description": "Generate my \"who am i\" using Haskell.",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -438,7 +438,7 @@
             "name": "visualize-activity",
             "language": "Elm",
             "description": "Visualize Activity",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -448,7 +448,7 @@
             "name": "haskell-reversi",
             "language": "Haskell",
             "description": "Reimplement KOBA789/rust-reversi using Haskell",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 1,
@@ -458,7 +458,7 @@
             "name": "extensible-effexts-step-by-step",
             "language": "Haskell",
             "description": "Example for Extensible Effect with extensible package ",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -468,7 +468,7 @@
             "name": "adventar-line-bot",
             "language": "Haskell",
             "description": "LINE Bot to notify update of ADVENTAR with Haskell",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 2,
@@ -478,7 +478,7 @@
             "name": "curry-howard-linebot",
             "language": "Haskell",
             "description": "LINE Bot that replay Curry-Howard Isomorphism with paper",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 4,
@@ -488,7 +488,7 @@
             "name": "awesome-backpack",
             "language": "",
             "description": "A collection of awesome  Backpack of Haskell links.",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 1,
@@ -498,7 +498,7 @@
             "name": "languages-colors-for-fasthub",
             "language": "Haskell",
             "description": "For https://github.com/k0shk0sh/FastHub/pull/862",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 10,
@@ -508,7 +508,7 @@
             "name": "gasdump",
             "language": "JavaScript",
             "description": "自作した Google Apps Script コードの置き場",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 1,
@@ -518,7 +518,7 @@
             "name": "awsdump",
             "language": "Python",
             "description": "AWS 用に書いたコード置き場",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 4,
@@ -528,7 +528,7 @@
             "name": "dlisp",
             "language": "D",
             "description": "Pure Lisp on D Language",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 1,
@@ -538,7 +538,7 @@
             "name": "hunter",
             "language": "Ruby",
             "description": "オライリーアニマルを捕まえるぞ",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 1,
@@ -548,7 +548,7 @@
             "name": "iio",
             "language": "Jupyter Notebook",
             "description": "Io kernel for Jupyter/IPython Notebook ",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 8,
@@ -558,7 +558,7 @@
             "name": "iprolog",
             "language": "Python",
             "description": "Prolog kernel for Jupyter/IPython Notebook",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -568,7 +568,7 @@
             "name": "simple-ierlang",
             "language": "Python",
             "description": "Erlang kernel for Jupyter/IPython Notebook",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 2,
@@ -578,7 +578,7 @@
             "name": "docker-merge",
             "language": "Haskell",
             "description": "make CLI that merge two Dockerfile using Haskell",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         },
         {
             "star_cnt": 0,
@@ -588,7 +588,7 @@
             "name": "whitespace_has",
             "language": "",
             "description": "Implement compiler of whitespace using Haskell.",
-            "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+            "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
         }
     ],
     "owner": {
@@ -596,9 +596,9 @@
         "url": "https://github.com/matsubara0507",
         "following": 142,
         "name": "MATSUBARA Nobutada",
-        "followers": 106,
+        "followers": 107,
         "login": "matsubara0507",
         "repo_cnt": 271,
-        "avatar": "https://avatars.githubusercontent.com/u/10684493?v=4"
+        "avatar": "https://private-avatars.githubusercontent.com/u/10684493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDMzNjAsIm5iZiI6MTczNDYwMjE2MCwicGF0aCI6Ii91LzEwNjg0NDkzIn0.LlMMwu6q4pDRh-rtmx5mLWqsN3LAO3qF1glR2jhfzjY&v=4"
     }
 }
